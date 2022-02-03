@@ -1,0 +1,101 @@
+[
+   {
+       "id":"1",
+       "name":"William Shakespeare",
+       "writerImage":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg",
+       "born":"26 April 1564,England",
+       "books":"First Folio",
+       "occupation":"Playwright, poet, actor",
+       "maxEstimatedSales":"4 billion",
+       "numberOfBooks":"42",
+       "died":"23 April 1616"
+    },
+    {
+        "id":"2",
+        "name":"Enid Blyton",
+        "writerImage":"https://upload.wikimedia.org/wikipedia/en/a/a3/Enid_Blyton_2.jpg",
+        "born":"11 August 1897",
+        "books":"Noody, Famous five",
+        "maxEstimatedSales":"600 million",
+       "numberOfBooks":"800",
+        "occupation":"Novelist, poet, teacher, short, story writer",
+        "died":"28 November 1968"
+     }, 
+     {
+        "id":"3",
+        "name":"Horatio Alger",
+        "writerImage":"https://upload.wikimedia.org/wikipedia/commons/5/51/Horatio_Alger_Jr.jpg",
+        "born":"January 13, 1832",
+        "books":"Ragged Dick",
+        "maxEstimatedSales":"400 million",
+        "numberOfBooks":"135",
+        "occupation":"Author",
+        "died":"July 18, 1899"
+     },
+     {
+        "id":"4",
+        "name":"Dr. Seuss",
+        "writerImage":"https://upload.wikimedia.org/wikipedia/commons/1/18/Theodor_Seuss_Geisel_%2801037v%29.jpg",
+        "born":"March 2, 1904",
+        "books":"The Cat in the Hat",
+        "maxEstimatedSales":"500 million",
+        "numberOfBooks":"44",
+        "occupation":"filmmaker",
+        "died":"September 24, 1991"
+     },
+     {
+        "id":"5",
+        "name":"Wilbur Smith",
+        "writerImage":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Wilbur_Smith_in_Sydney.jpg",
+        "born":"9 January 1933",
+        "books":"Eagle in the Sky",
+        "maxEstimatedSales":"100 million",
+        "numberOfBooks":"32",
+        "occupation":"Novelist",
+        "died":"13 November 2021"
+     },
+     {
+        "id":"6",
+        "name":"Erskine Caldwell",
+        "writerImage":"https://upload.wikimedia.org/wikipedia/commons/7/74/Erskine_Caldwell_1975b.jpg",
+        "born":"December 17, 1903",
+        "books":"Tobacco Road",
+        "maxEstimatedSales":"100 million",
+        "numberOfBooks":"25",
+        "occupation":"Novelist, short story writer",
+        "died":"April 11, 1987"
+     },
+     {
+        "id":"7",
+        "name":"Hermann Hesse",
+        "writerImage":"https://upload.wikimedia.org/wikipedia/commons/d/da/Hermann_Hesse_2.jpg",
+        "born":"2 July 1877",
+        "books":"Mann",
+        "maxEstimatedSales":"100 million",
+        "numberOfBooks":"45",
+        "occupation":"Novelist, short story author, essayist, poet, painter",
+        "died":"9 August 1962"
+     },
+     {
+        "id":"8",
+        "name":"J. R. R. Tolkien",
+        "writerImage":"https://upload.wikimedia.org/wikipedia/commons/6/66/J._R._R._Tolkien%2C_1940s.jpg",
+        "born":"3 January 1892",
+        "books":"Treasure Island",
+        "maxEstimatedSales":"250 million",
+        "numberOfBooks":"36",
+        "occupation":"poet",
+        "died":"2 September 1973"
+     },
+     {
+        "id":"9",
+        "name":"Robert Ludlum",
+        "writerImage":"https://upload.wikimedia.org/wikipedia/en/a/a2/Robert_Ludlum_%281927-2001%29.jpg",
+        "born":"May 25, 1927",
+        "books":"The Holcroft Covenant",
+        "maxEstimatedSales":"290 million",
+        "numberOfBooks":"40",
+        "occupation":"Novelist",
+        "died":"March 12, 2001 "
+     }
+]
